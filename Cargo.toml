@@ -1,0 +1,19 @@
+[package]
+name = "ferox"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.5.55", features = ["derive"] }
+argon2 = "0.5.3"
+rand = "0.9.2"
+anyhow = "1.0.100"
+aes-gcm-siv = "0.11.1"
+base16 = "0.2.1"
+inquire = "0.9.2"
+dirs = "6.0.0"
+blake3 = "1.8.3"
+chrono = "0.4.43"
+infer = "0.19.0"
+bytes = "1.11.0"
+indicatif = "0.18.3"
