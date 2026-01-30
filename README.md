@@ -1,5 +1,4 @@
 # Ferox
-## File encryption program
 
 > [!WARNING]
 > This is for educational purposes only.
